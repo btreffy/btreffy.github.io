@@ -1,2 +1,2 @@
 # btreffy.github.io
-Resume
+CIS 101 - Web Design Assignment - Resume
